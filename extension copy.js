@@ -3,10 +3,10 @@ const vscode = require('vscode');
 function activate(context) {
 	console.log('Congratulations, your extension "eliza" is now active!');
 
-	const disposable = vscode.commands.registerCommand('eliza.helloWorld', async () => {
+	const disposable = vscode.commands.registerCommand('eliza.chat', async () => {
 		const panel = vscode.window.createWebviewPanel(
 			'browserView',
-			'Embedded Browser',
+			'AI Browser by MEHEDI AHAMED',
 			vscode.ViewColumn.One,
 			{
 				enableScripts: true,
@@ -16,7 +16,7 @@ function activate(context) {
 
 		const choices = {
 			'DeepSeek': 'https://chat.deepseek.com/',
-			'': 'https://you.com/',
+			'You': 'https://you.com/',
 			'DeepAI':"https://deepai.org/chat"
 		};
 
@@ -25,12 +25,10 @@ function activate(context) {
 			options += `<option value="${value}">${key}</option>`;
 		}
 
-		// Get the first URL from the choices to load by default
 		const initialUrl = Object.values(choices)[0];
 
 		panel.webview.html = getWebviewContent(options, initialUrl);
 
-		// Handle messages from the webview
 		panel.webview.onDidReceiveMessage(
 			message => {
 				switch (message.command) {

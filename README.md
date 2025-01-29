@@ -1,65 +1,37 @@
 # eliza README
 
-This is the README for your extension "eliza". After writing up a brief description, we recommend including the following sections.
+A powerful VS Code extension that allows developers to query, debug, and optimize code using AI assistants like Claude, ChatGPT, and DeepSeek directly within the editor.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Sign up for popular AI services not offered by Copilot, such as DeepSeek, You, and DeepAI.
 
-For example if there is an image subfolder under your extension project workspace:
+\!\[DeepSeek\]\(assets/images/deepseek.png\)
+\!\[You\]\(assets/images/you.png\)
+\!\[DeepAI\]\(assets/images/deepai.png\)
+\!\[Feature Animation\]\(assets/images/ELIZA.gif\)
 
-\!\[feature X\]\(images/feature-x.png\)
+## Instructions
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
+1. Install ELIZA.
+2. In the status bar below, you will see an AI icon. Press it or use the command palette (CTRL+SHIFT+P) and click "AI Chat".
+3. For signing up, do not use Google Authenticator; enter credentials manually.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
+In version 0.0.3, a status bar button was added to start the extension, which will be helpful for prompt chatting.
 
 ## Working with Markdown
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
 * Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
 
-## For more information
+## About the Publisher
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Follow me on:
+* [LinkedIn](https://www.linkedin.com/in/mehedi-ahamed-17014b21a)
+* [GitHub](https://github.com/MehediAhamed)
+* [YouTube](https://www.youtube.com/@mehediunplugged)

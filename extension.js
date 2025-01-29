@@ -3,6 +3,13 @@ const vscode = require('vscode');
 function activate(context) {
     console.log('Congratulations, your extension "eliza" is now active!');
 
+    const statusBarItem = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Right, 100);
+    statusBarItem.command = 'eliza.chat';
+    statusBarItem.text = '$(rocket) AI';
+    statusBarItem.tooltip = 'Start AI Browser';
+    statusBarItem.show();
+    context.subscriptions.push(statusBarItem);
+
     const disposable = vscode.commands.registerCommand('eliza.chat', async () => {
         const panel = vscode.window.createWebviewPanel(
             'browserView',
