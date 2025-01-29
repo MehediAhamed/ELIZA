@@ -6,10 +6,10 @@ A powerful VS Code extension that allows developers to query, debug, and optimiz
 
 Sign up for popular AI services not offered by Copilot, such as DeepSeek, You, and DeepAI.
 
-\!\[DeepSeek\]\(assets/images/deepseek.png\)
-\!\[You\]\(assets/images/you.png\)
-\!\[DeepAI\]\(assets/images/deepai.png\)
-\!\[Feature Animation\]\(assets/images/ELIZA.gif\)
+![DeepSeek](assets/images/deepseek.png)
+![You](assets/images/you.png)
+![DeepAI](assets/images/deepai.png)
+![Feature Animation](assets/images/ELIZA.gif)
 
 ## Instructions
 
