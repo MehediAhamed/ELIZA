@@ -6,7 +6,7 @@ A powerful VS Code extension that allows developers to query, debug, and optimiz
 
 Sign up for popular AI services not offered by Copilot, such as DeepSeek, You, and DeepAI.
 
-![Feature Animation](https://github.com/MehediAhamed/ELIZA/blob/master/assets/images/ELIZA.gif)
+![Feature Animation](https://raw.githubusercontent.com/MehediAhamed/ELIZA/master/assets/images/ELIZA.gif)
 
 ## Instructions
 
@@ -34,6 +34,8 @@ Follow me on:
 * [YouTube](https://www.youtube.com/@mehediunplugged)
 
 ## Screenshots
-![DeepSeek](https://github.com/MehediAhamed/ELIZA/blob/master/assets/images/deepseek.png)
-![You](https://github.com/MehediAhamed/ELIZA/blob/master/assets/images/you.png)
-![DeepAI](https://github.com/MehediAhamed/ELIZA/blob/master/assets/images/deepai.png)
+![DeepSeek](https://raw.githubusercontent.com/MehediAhamed/ELIZA/master/assets/images/deepseek.png)
+
+![You](https://raw.githubusercontent.com/MehediAhamed/ELIZA/master/assets/images/you.png)
+
+![DeepAI](https://raw.githubusercontent.com/MehediAhamed/ELIZA/master/assets/images/deepai.png)
