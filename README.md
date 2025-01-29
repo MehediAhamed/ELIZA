@@ -6,7 +6,7 @@ A powerful VS Code extension that allows developers to query, debug, and optimiz
 
 Sign up for popular AI services not offered by Copilot, such as DeepSeek, You, and DeepAI.
 
-![Feature Animation](assets/images/ELIZA.gif)
+![Feature Animation](https://github.com/MehediAhamed/ELIZA/blob/master/assets/images/ELIZA.gif)
 
 ## Instructions
 
