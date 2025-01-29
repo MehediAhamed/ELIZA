@@ -3,10 +3,10 @@ const vscode = require('vscode');
 function activate(context) {
     console.log('Congratulations, your extension "eliza" is now active!');
 
-    const disposable = vscode.commands.registerCommand('eliza.helloWorld', async () => {
+    const disposable = vscode.commands.registerCommand('eliza.chat', async () => {
         const panel = vscode.window.createWebviewPanel(
             'browserView',
-            'Embedded Browser',
+            'AI Browser by MEHEDI AHAMED',
             vscode.ViewColumn.One,
             {
                 enableScripts: true,

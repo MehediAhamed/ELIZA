@@ -13,8 +13,8 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "eliza.helloWorld",
-      "title": "Hello World"
+      "command": "eliza.chat",
+      "title": "AI Chat"
     }]
   },
   "scripts": {
@@ -22,6 +22,13 @@
     "pretest": "npm run lint",
     "test": "vscode-test"
   },
+
+  "icon": "assets/eliza.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MehediAhamed/ELIZA.git"
+  },
+
   "devDependencies": {
     "@types/vscode": "^1.96.0",
     "@types/mocha": "^10.0.10",
