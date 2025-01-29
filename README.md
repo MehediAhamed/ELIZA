@@ -14,6 +14,8 @@ Sign up for popular AI services not offered by Copilot, such as DeepSeek, You, a
 2. In the status bar below, you will see an AI icon. Press it or use the command palette (CTRL+SHIFT+P) and click "AI Chat".
 3. For signing up, do not use Google Authenticator; enter credentials manually.
 
+![Sign up](https://raw.githubusercontent.com/MehediAhamed/ELIZA/master/assets/images/signup.png)
+
 ## Release Notes
 
 In version 0.0.3, a status bar button was added to start the extension, which will be helpful for prompt chatting.
