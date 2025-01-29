@@ -34,6 +34,6 @@ Follow me on:
 * [YouTube](https://www.youtube.com/@mehediunplugged)
 
 ## Screenshots
-![DeepSeek](assets/images/deepseek.png)
-![You](assets/images/you.png)
-![DeepAI](assets/images/deepai.png)
+![DeepSeek](https://github.com/MehediAhamed/ELIZA/blob/master/assets/images/deepseek.png)
+![You](https://github.com/MehediAhamed/ELIZA/blob/master/assets/images/you.png)
+![DeepAI](https://github.com/MehediAhamed/ELIZA/blob/master/assets/images/deepai.png)
