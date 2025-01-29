@@ -1,4 +1,4 @@
-# eliza README
+# README
 
 A powerful VS Code extension that allows developers to query, debug, and optimize code using AI assistants like Claude, ChatGPT, and DeepSeek directly within the editor.
 
