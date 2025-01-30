@@ -18,7 +18,7 @@ Sign up for popular AI services not offered by Copilot, such as DeepSeek, You, a
 
 ## Release Notes
 
-In version 0.0.3, a status bar button was added to start the extension, which will be helpful for prompt chatting.
+In version 0.0.8, a status bar button was added to start the extension, which will be helpful for prompt chatting.
 
 ## Working with Markdown
 

@@ -2,7 +2,7 @@
   "name": "eliza",
   "displayName": "ELIZA",
   "description": "A powerful VS Code extension that allows developers to query, debug, and optimize code using AI assistants like Claude, ChatGPT, and DeepSeek directly within the editor.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "MehediAhamed",
   "engines": {
     "vscode": "^1.96.0"

@@ -22,7 +22,7 @@ function activate(context) {
         );
 
         const choices = {
-            'DeepSeek': 'https://chat.deepseek.com/',
+            'DeepSeek': 'https://www.deepseek.com/',
             'You': 'https://you.com/',
             'DeepAI':"https://deepai.org/chat"
         };
